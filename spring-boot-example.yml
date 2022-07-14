@@ -25,3 +25,18 @@ spec:
           env:
             - name: TZ
               value: Asia/Ho_Chi_Minh
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: example-service-ingress
+  annotations:
+    ingress.kubernetes.io/rewrite-target: /
+spec:
+  rules:
+  - http:
+      paths:
+        - path: /example-service
+          backend:
+            serviceName: example-service
+            servicePort: 8080
