@@ -38,10 +38,10 @@ spec:
   rules:
   - http:
       paths:
-        - path: /example-service-svc
+        - path: /example-service
           pathType: Prefix
           backend:
             service: 
-              name: example-service
+              name: example-service-svc
               port:
                 number: 8080
