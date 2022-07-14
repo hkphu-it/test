@@ -20,7 +20,7 @@ spec:
         module: example-service
     spec:
       containers:
-        - name: vbs-api-server-container
+        - name: example-service-container
           image: springio/gs-spring-boot-docker
           env:
             - name: TZ
