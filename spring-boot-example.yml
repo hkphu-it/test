@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: example-service
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: example-service
+  namespace: example-service
+spec:
+  selector:
+    matchLabels:
+      app: example-service
+      module: example-service
+  template:
+    metadata:
+      labels:
+        app: example-service
+        module: example-service
+    spec:
+      containers:
+        - name: vbs-api-server-container
+          image: springio/gs-spring-boot-docker
+          env:
+            - name: TZ
+              value: Asia/Ho_Chi_Minh
