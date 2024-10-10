@@ -1,0 +1,2 @@
+# QUY ĐỊNH CHUNG
+

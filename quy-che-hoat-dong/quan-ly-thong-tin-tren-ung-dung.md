@@ -1,0 +1,13 @@
+# QUẢN LÝ THÔNG TIN TRÊN ỨNG DỤNG
+
+**Các thông tin đăng tải trên Ứng dụng được quản lý/ kiểm soát bằng các biện pháp sau:**
+
+* Tuân thủ Quy định đối với Người đăng tin _(quy định chi tiết tại_ [#i.-quy-dinh-doi-voi-nguoi-dang-tin](quy-dinh-chung/quy-dinh-dang-tin.md#i.-quy-dinh-doi-voi-nguoi-dang-tin "mention")_của Quy chế)_: Đảm bảo Vars Connect thu thập đầy đủ các thông tin cá nhân của người đăng tin và quản lý thông tin Người đăng tin đúng theo yêu cầu, quy định của pháp luật.
+* Tuân thủ Quy định về Thông tin đăng tải _(quy định chi tiết tại_ [#ii.-quy-dinh-ve-thong-tin-dang-tai-tren-vars-connect](quy-dinh-chung/quy-dinh-dang-tin.md#ii.-quy-dinh-ve-thong-tin-dang-tai-tren-vars-connect "mention")  _của Quy chế):_ Đảm bảo bài đăng được kiểm duyệt đáp ứng các tiêu chuẩn về nội dung, hình thức, không vi phạm các quy định của pháp luật
+* Sử dụng Công cụ cập nhật từ khóa và lọc thông tin theo từ khóa: Đảm bảo Chuyên viên Kiểm duyệt dễ dàng nhận biết và không bỏ sót các tin đăng chứa các từ bị cấm trong quá trình kiểm duyệt nội dung tin đăng.
+* Có Chuyên viên Kiểm duyệt từng tin đăng theo Quy trình Kiểm duyệt tin đăng _(quy định chi tiết tại_ [quy-trinh-giao-dich](quy-trinh-giao-dich/ "mention") _của Quy chế)_: Đội ngũ Chuyên viên Kiểm duyệt với nhiều năm kinh nghiệm trong lĩnh vực bất động sản và liên tục cập nhật thông tin về thị trường sẽ rà soát nội dung của từng tin đăng để đảm bảo tin đăng được xuất hiện công khai tuân thủ các quy định về thông tin đăng tải, quy định của pháp luật, và phù hợp với thực tế thị trường.
+
+**Xác thực các thông tin đã đăng tải công khai bị phải ánh, khiếu nại thông qua:**
+
+* **Cơ chế rà soát, kiểm soát thông tin về sản phẩm/dịch vụ** _(quy định chi tiết tại_ [#vii.-co-che-ra-soat-kiem-soat-thong-tin-ve-san-pham-dich-vu-dang-tai-tren-vars-connect](quy-dinh-chung/quy-dinh-dang-tin.md#vii.-co-che-ra-soat-kiem-soat-thong-tin-ve-san-pham-dich-vu-dang-tai-tren-vars-connect "mention") _của Quy chế)_: Khi có phản, ánh, khiếu nại của Người dùng đối với nội dung của các tin đăng, tin đăng đã được điều chỉnh hoặc thông tin cá nhân của người dùng đã được đăng tải công khai, Chuyên viên Kiểm duyệt sẽ trực tiếp liên hệ với người khiếu nại và bị khiếu nại để xác thực thông tin, thực hiện các biện pháp cần thiết theo Quy trình giải quyết khiếu nại của Quy chế.
+* • Quy trình phối hợp với các chủ thể quyền sở hữu trí tuệ rà soát và gỡ bỏ các sản phẩm xâm phạm quyền sở hữu trí tuệ trên Sàn giao dịch thương mại điện tử (quy định chi tiết tại Mục II.5.6 của Quy chế): Đảm bảo thông tin đăng tải trên Ứng dụng không vị phạm các quy định về quyền sở hữu trí tuệ.

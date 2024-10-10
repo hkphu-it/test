@@ -1,0 +1,5 @@
+# ĐIỀU KHOẢN ÁP DỤNG
+
+* Việc truy cập và sử dụng VARs Connect do người dùng hoàn toàn tự chịu trách nhiệm và được cung cấp như hiện có.
+* Người dùng đồng ý rằng bản Quy Chế này và bất kỳ tranh chấp nào phát sinh từ việc người dùng sử dụng VARs Connect hoặc các sản phẩm, dịch vụ của VARs Connect sẽ được giải quyết theo luật pháp hiện hành của Nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. Thông qua việc đăng ký hoặc sử dụng các dịch vụ của VARs Connect, người dùng mặc nhiên đồng ý và tuân thủ toàn bộ các quy định của VARs Connect.
+* Quy Chế của VARs Connect chính thức có hiệu lực thi hành kể từ ngày ký Quyết định ban hành kèm theo Quy Chế này. VARs Connect có quyền thay đổi (bao gồm nhưng không giới hạn: chỉnh sửa, thêm hoặc lược bỏ) phần nào trong những Điều khoản của Quy Chế này vào thời điểm phù hợp do Chúng tôi quyết định. Các thay đổi có hiệu lực sau 05 (năm) ngày kể từ ngày được đăng công khai trên VARs Connect. Do đó, vui lòng kiểm tra thường xuyên Quy Chế này để cập nhật các thay đổi nhằm bảo vệ quyền và lợi ích cho Bạn. Việc truy cập VARs Connect sau khi có sự thay đổi này sẽ được coi là sự chấp nhận của bạn đối với phiên bản mới này.
